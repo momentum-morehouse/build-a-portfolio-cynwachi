@@ -5,6 +5,9 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+  .cities {
+    font-family: 'Roboto Condensed', sans-serif;
+  }
 
  :root {
     --blue: #007bff;
